@@ -1,4 +1,5 @@
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/lineage/build/target/product/product_launched_with_j.mk)
 
 $(call inherit-product, device/htc/m7/full_m7.mk)
 
