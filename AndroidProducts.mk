@@ -15,9 +15,9 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_m7.mk \
-    $(LOCAL_DIR)/lineage_m7.mk
+    $(LOCAL_DIR)/potato_m7.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_m7-user \
-    lineage_m7-userdebug \
-    lineage_m7-eng
+    potato_m7-user \
+    potato_m7-userdebug \
+    potato_m7-eng
