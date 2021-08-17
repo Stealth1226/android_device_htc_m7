@@ -15,9 +15,9 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_m7.mk \
-    $(LOCAL_DIR)/lineage_m7.mk
+    $(LOCAL_DIR)/lighthouse_m7.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_m7-user \
-    lineage_m7-userdebug \
-    lineage_m7-eng
+    lighthouse_m7-user \
+    lighthouse_m7-userdebug \
+    lighthouse_m7-eng
